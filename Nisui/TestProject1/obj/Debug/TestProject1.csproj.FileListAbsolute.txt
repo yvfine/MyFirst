@@ -1,0 +1,7 @@
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\bin\Debug\Nisui.exe
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\bin\Debug\Nisui.pdb
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\TestProject1\obj\Debug\TestProject1.pdb

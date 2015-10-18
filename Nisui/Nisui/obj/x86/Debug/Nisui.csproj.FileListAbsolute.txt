@@ -1,0 +1,4 @@
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\Nisui\bin\Debug\Nisui.exe
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\Nisui\bin\Debug\Nisui.pdb
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\Nisui\obj\x86\Debug\Nisui.exe
+C:\Users\user1\Documents\GitHub\MyFirst\Nisui\Nisui\obj\x86\Debug\Nisui.pdb

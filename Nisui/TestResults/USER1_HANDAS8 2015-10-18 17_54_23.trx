@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="63335b00-6f53-47ef-99b8-a0d849065992" name="USER1@HANDAS8 2015-10-18 17:54:23" runUser="DOMAIN\USER1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="65940aed-5df3-4fc4-afe9-cec6c34dbb45">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="USER1_HANDAS8 2015-10-18 17_54_23">
+      <DeploymentItem filename="C:\Users\user1\Documents\GitHub\MyFirst\Nisui\Nisui\bin\Debug\Nisui.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-18T17:54:23.7492247+03:00" queuing="2015-10-18T17:54:24.4192917+03:00" start="2015-10-18T17:54:24.4592957+03:00" finish="2015-10-18T17:54:25.1843682+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\user1\documents\github\myfirst\nisui\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="9ca6c72d-41dd-4f8c-8b87-41fab2dd82a8" />
+      <TestMethod codeBase="C:/Users/user1/Documents/GitHub/MyFirst/Nisui/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="9ca6c72d-41dd-4f8c-8b87-41fab2dd82a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9ca6c72d-41dd-4f8c-8b87-41fab2dd82a8" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="HANDAS8" duration="00:00:00.0132558" startTime="2015-10-18T17:54:24.4782976+03:00" endTime="2015-10-18T17:54:25.0333531+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ca6c72d-41dd-4f8c-8b87-41fab2dd82a8">
+    </UnitTestResult>
+  </Results>
+</TestRun>
